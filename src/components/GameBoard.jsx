@@ -1,5 +1,5 @@
 // ===== src/components/GameBoard.jsx =====
-import Row from "./Row";
+import Row from "../components/Row";
 
 export default function GameBoard({ game }) {
   const rows = 9; // 6 hard + 3 verse stage
